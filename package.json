@@ -1,22 +1,19 @@
 {
   "name": "allons-y-dropzone",
-  "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Publish dropzone to the allons-y-gulp distribution system.",
+  "license": "MIT",
+  "homepage": "http://allons-y.io",
+  "author": "CodeCorico <hello@codecorico.com>",
+  "bugs": "https://github.com/CodeCorico/allons-y-dropzone/issues",
   "repository": {
     "type": "git",
     "url": "https://github.com/CodeCorico/allons-y-dropzone.git"
   },
-  "author": "CodeCorico <hello@codecorico.com>",
-  "bugs": {
-    "url": "https://github.com/CodeCorico/allons-y-dropzone/issues"
-  },
-  "homepage": "https://github.com/CodeCorico/allons-y-dropzone",
   "engines": {
     "node": ">=4.1",
     "npm": ">=3.2"
   },
-  "license": "MIT",
   "dependencies": {
     "dropzone": "^4.3.0"
   }
