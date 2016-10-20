@@ -15,6 +15,7 @@
     "npm": ">=3.2"
   },
   "dependencies": {
+    "allons-y-gulp": "^1.0.0",
     "dropzone": "^4.3.0"
   }
 }
